@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Meine Mama weint immer noch um 10€");
